@@ -1,0 +1,39 @@
+---- Minecraft Crash Report ----
+// This is a token for 1 free hug. Redeem at your nearest Mojangsta: [~~HUG~~]
+
+Time: 6/16/18 12:18 AM
+Description: Exception in server tick loop
+
+org.apache.logging.log4j.core.appender.AppenderLoggingException: Attempted to append to non-started appender ServerGuiConsole
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:89)
+	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:425)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:406)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:367)
+	at org.apache.logging.log4j.core.Logger.log(Logger.java:110)
+	at org.apache.logging.log4j.spi.AbstractLogger.info(AbstractLogger.java:1011)
+	at lm.a(SourceFile:601)
+	at ek.l(SourceFile:370)
+	at ll.c(SourceFile:165)
+	at net.minecraft.server.MinecraftServer.B(SourceFile:625)
+	at ko.B(SourceFile:299)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:535)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:451)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.8
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_144, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 6696689016 bytes (6386 MB) / 7146045440 bytes (6815 MB) up to 11453595648 bytes (10923 MB)
+	JVM Flags: 2 total; -Xms4G -Xmx12G
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 6 / 20; [lf['lilpumpp'/554241, l='world', x=-606.36, y=64.00, z=1583.31], lf['dinnerbone_'/589959, l='world', x=-1227.30, y=63.00, z=1500.49], lf['uhhhhmason'/606610, l='world', x=-640.40, y=81.00, z=1582.03], lf['C0deChimp'/571728, l='world', x=-349.27, y=63.00, z=1595.91], lf['jubilee'/631541, l='world', x=-643.64, y=74.00, z=1571.04], lf['coolcon21'/569669, l='world', x=-346.20, y=63.00, z=1594.37]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

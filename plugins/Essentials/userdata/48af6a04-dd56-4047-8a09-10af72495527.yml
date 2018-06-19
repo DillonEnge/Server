@@ -1,0 +1,21 @@
+lastAccountName: dinnerbone_
+timestamps:
+  login: 1529038510937
+  lastteleport: 1529033139263
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -615.4099142369814
+  y: 39.0
+  z: 1652.300000011921
+  yaw: 175.05408
+  pitch: -25.949661
+homes:
+  home:
+    world: world
+    x: -615.8436593136471
+    y: 68.0
+    z: 1623.5787548927146
+    yaw: 204.29826
+    pitch: 9.299997
+afk: false

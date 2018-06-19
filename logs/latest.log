@@ -1,0 +1,56 @@
+[15:49:43] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[15:49:43] [Server thread/INFO]: Loading properties
+[15:49:43] [Server thread/INFO]: Default game type: SURVIVAL
+[15:49:43] [Server thread/INFO]: Generating keypair
+[15:49:43] [Server thread/INFO]: Starting Minecraft server on 192.168.1.103:25565
+[15:49:43] [Server thread/INFO]: Using default channel type
+[15:49:44] [Server thread/INFO]: Preparing level "world"
+[15:49:44] [Server thread/INFO]: Preparing start region for level 0
+[15:49:45] [Server thread/INFO]: Preparing spawn area: 98%
+[15:49:45] [Server thread/INFO]: Done (1.159s)! For help, type "help" or "?"
+[15:49:45] [User Authenticator #2/INFO]: UUID of player coolcon21 is 80f54393-ee19-4043-8dca-57f67b95ef2b
+[15:49:45] [User Authenticator #1/INFO]: UUID of player DameTooCosita is e1bc6bf6-0339-470c-b407-1afacd5a4c5c
+[15:49:45] [Server thread/INFO]: coolcon21[/192.168.1.1:51046] logged in with entity id 669 at (-631.4467919577473, 6.0, 1550.699999988079)
+[15:49:45] [Server thread/INFO]: coolcon21 joined the game
+[15:49:46] [Server thread/INFO]: DameTooCosita[/73.137.94.139:62287] logged in with entity id 737 at (-403.37599490627287, 64.0, 1655.3355555414266)
+[15:49:46] [Server thread/INFO]: DameTooCosita joined the game
+[15:49:47] [User Authenticator #3/INFO]: UUID of player awesomeml is df4c4b64-f6bb-42eb-9906-d12200b1eb5a
+[15:49:47] [Server thread/INFO]: awesomeml[/174.49.97.109:64976] logged in with entity id 742 at (-395.69999998807907, 63.85489329934836, 1657.692843780828)
+[15:49:47] [Server thread/INFO]: awesomeml joined the game
+[15:49:52] [User Authenticator #4/INFO]: UUID of player anth60600 is b8441df6-4f90-4435-8a34-c94468862c88
+[15:49:52] [Server thread/INFO]: anth60600[/73.54.202.104:58423] logged in with entity id 750 at (-451.3723289339334, 71.0, 1776.430364773203)
+[15:49:52] [Server thread/INFO]: anth60600 joined the game
+[15:49:59] [User Authenticator #5/INFO]: UUID of player lilboooaaat is 2454e099-ff98-403a-91fe-ff5c96025ce1
+[15:49:59] [Server thread/INFO]: lilboooaaat[/76.240.26.250:51851] logged in with entity id 900 at (-202.57170170370756, 9.0, 1328.4206699649803)
+[15:49:59] [Server thread/INFO]: lilboooaaat joined the game
+[15:50:00] [User Authenticator #6/INFO]: UUID of player Peeeeeeenis is 2fd5c293-3e1a-4134-ac6f-41cb005d3644
+[15:50:00] [Server thread/INFO]: Peeeeeeenis[/45.26.156.29:51179] logged in with entity id 1527 at (-671.5010985655242, 56.5, -2144.300000011921)
+[15:50:00] [Server thread/INFO]: Peeeeeeenis joined the game
+[15:50:04] [Server thread/INFO]: <lilboooaaat> no
+[15:50:36] [Server thread/INFO]: <Peeeeeeenis> maybe som1 else should host
+[15:50:37] [Server thread/INFO]: awesomeml was slain by DameTooCosita
+[15:51:05] [Server thread/INFO]: awesomeml has just earned the achievement [Taking Inventory]
+[15:51:34] [User Authenticator #7/INFO]: UUID of player lilpumpp is 82d42695-b9d9-49a8-9ccb-5517df35f9de
+[15:51:34] [Server thread/INFO]: lilpumpp[/73.207.154.55:52589] logged in with entity id 6750 at (-597.497893857452, 64.0, 1584.8899880323247)
+[15:51:34] [Server thread/INFO]: lilpumpp joined the game
+[15:51:51] [Server thread/WARN]: lilpumpp moved wrongly!
+[15:51:58] [Server thread/WARN]: lilpumpp moved wrongly!
+[15:51:58] [Server thread/WARN]: lilpumpp moved wrongly!
+[15:52:28] [Server thread/INFO]: awesomeml lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:52:28] [Server thread/INFO]: awesomeml left the game
+[15:52:49] [User Authenticator #8/INFO]: UUID of player coolcon21 is 80f54393-ee19-4043-8dca-57f67b95ef2b
+[15:52:49] [Server thread/INFO]: coolcon21 lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:52:49] [Server thread/INFO]: coolcon21 left the game
+[15:52:49] [Server thread/WARN]: handleDisconnection() called twice
+[15:52:49] [Server thread/INFO]: coolcon21[/192.168.1.1:51070] logged in with entity id 10687 at (-661.6999999880791, 32.0, 1571.430396712085)
+[15:52:49] [Server thread/INFO]: coolcon21 joined the game
+[15:52:55] [Server thread/WARN]: coolcon21 moved wrongly!
+[15:52:59] [Server thread/WARN]: coolcon21 moved wrongly!
+[15:53:03] [Server thread/INFO]: anth60600 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:53:03] [Server thread/INFO]: anth60600 left the game
+[15:53:03] [Server thread/INFO]: lilboooaaat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:53:03] [Server thread/INFO]: lilboooaaat left the game
+[15:53:03] [Server thread/WARN]: coolcon21 moved wrongly!
+[15:53:08] [Server thread/INFO]: coolcon21 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:53:08] [Server thread/INFO]: coolcon21 left the game
+[15:53:10] [Server Shutdown Thread/INFO]: Stopping server
