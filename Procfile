@@ -1,1 +1,0 @@
-web: java -Xmx512m -Xmx512m -jar server.jar
